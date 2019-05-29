@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baking</string>
+    <string name="empty_view_title_text">The recipe shelves are empty...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a recipe</string>
+    <string name="pb_amp_j_sandwich">sandwich</string>
+    <string name="image">image:</string>
+    <string name="serving_place_holder">4</string>
+    <string name="ingredients_list">Ingredients List</string>
+</resources>
